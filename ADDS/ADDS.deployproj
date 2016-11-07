@@ -37,6 +37,15 @@
     <Content Include="Templates\domaincontroller.parameters.json" />
     <Content Include="DSC\dscDCConfiguration.ps1" />
     <None Include="DSC\dscDCConfigData.psd1" />
+    <None Include="DSC\xActiveDirectory\appveyor.yml" />
+    <None Include="DSC\xActiveDirectory\Assert-HADC.ps1" />
+    <None Include="DSC\xActiveDirectory\Assert-ParentChildDomains.ps1" />
+    <None Include="DSC\xActiveDirectory\HADCConfiguration.psd1" />
+    <None Include="DSC\xActiveDirectory\LICENSE" />
+    <None Include="DSC\xActiveDirectory\ParentChildConfig.psd1" />
+    <None Include="DSC\xActiveDirectory\README.md" />
+    <None Include="DSC\xActiveDirectory\xActiveDirectory.psd1" />
+    <None Include="DSC\xActiveDirectory\xActiveDirectory_TechNetDocumentation.html" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Tools\AzCopy.exe" />
