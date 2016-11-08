@@ -37,6 +37,7 @@
     <Content Include="Templates\domaincontroller.parameters.json" />
     <Content Include="DSC\dscDCConfiguration.ps1" />
     <None Include="DSC\dscDCConfigData.psd1" />
+    <None Include="DSC\dscDCConfiguration.ps1.zip" />
     <None Include="DSC\xActiveDirectory\appveyor.yml" />
     <None Include="DSC\xActiveDirectory\Assert-HADC.ps1" />
     <None Include="DSC\xActiveDirectory\Assert-ParentChildDomains.ps1" />
